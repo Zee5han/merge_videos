@@ -1,5 +1,5 @@
 # merge_videos
 This is a Python script to merge two videos into one.
 
-# Requirements
+## Requirements
 pip install moviepy
